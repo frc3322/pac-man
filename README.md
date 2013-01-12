@@ -1,6 +1,8 @@
 pac-man
 =======
 
+This is another line.
+
 Arduino-based robots for navigating a PAC-MAN maze.
 
 Any C++ code in a file named "sketch.cpp" should be pasted into
